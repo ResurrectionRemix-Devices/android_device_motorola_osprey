@@ -16,6 +16,12 @@
     "branch": "lineage-16.0"
   },
   {
+    "remote": "github",
+    "repository": "chil360/prebuilts_gcc_linux-x86_arm_arm-eabi-8.3",
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-8.3",
+    "branch": "master"
+  },
+  {
     "repository":  "android_device_motorola_msm8916-common",
     "target_path": "device/motorola/msm8916-common"
   }
