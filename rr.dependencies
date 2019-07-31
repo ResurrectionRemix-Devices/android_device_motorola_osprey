@@ -1,5 +1,13 @@
 [
   {
+    "repository":  "vendor_motorola",
+    "target_path": "vendor/motorola"
+  },
+  {
+    "repository":  "kernel_motorola_msm8916",
+    "target_path": "kernel/motorola/msm8916"
+  },
+  {
     "repository":  "android_device_motorola_msm8916-common",
     "target_path": "device/motorola/msm8916-common"
   }
